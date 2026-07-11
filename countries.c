@@ -4,7 +4,6 @@ void Greenland() {
     return;
 }
 
-
 void Spain() {
     printf("You live in Spain\n");
     Greenland();
